@@ -44,6 +44,10 @@ ENV/
 .env
 .env.local
 
+# Account state files (sensitive)
+astock_account_state.json
+astock_portfolio_state.json
+
 # Testing
 .pytest_cache/
 .coverage
